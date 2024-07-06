@@ -1,3 +1,4 @@
 crewai[tools]
 langchain_google_genai
 load_dotenv
+agentops==0.2.6
